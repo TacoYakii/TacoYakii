@@ -7,6 +7,6 @@ Please feel free to contact me at anytime by leaving a comment.
 ## Concentration 
 - Forecasting Time Series Data
 
-## Primary Intererst  
+## Interested in... 
 - AI
 - Statistics 
