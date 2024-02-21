@@ -1,3 +1,11 @@
-Hello,  
+Hello,👋  
 
-I am a graduated student majoring in Industrial Engineering with a keen interest in AI and statistics.
+I am a graduate student from South Korea, studying Industrial Engineering.  
+Please feel free to contact me at anytime by leaving a comment.  
+
+Concentration 
+- Forecasting Time Series Data
+
+Primary Intererst  
+- AI
+- Statistics 
