@@ -7,5 +7,4 @@ Sup
 - Forecasting Time Series Data
 
 ## Interested in... 
-- AI
-- Statistics 
+- forecasting
