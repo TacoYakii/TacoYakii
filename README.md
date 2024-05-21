@@ -1,6 +1,6 @@
 ## Hello,👋  
 
-I am a graduate student from South Korea, studying Industrial Engineering.  
+Sup
 
 
 ## Concentration 
